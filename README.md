@@ -1,5 +1,5 @@
 # Natural-Language-Processing-NLP-in-Python
 Sentiment Analysis of Covid-19 Tweets Using Logistic Regression, Random Forest, Support Vector Classifier, and Latent Dirichlet Allocation (LDA).<br /><br />
 Corona_NLP.ipynb and .html are the notebook and rendered html output respectively. <br />
-To view the rendered HTML file, click here: https://html-preview.github.io/?url=https://github.com/KevinWa3/Natural-Language-Processing-NLP-in-Python/blob/main/Corona_NLP.html.<br /><br />
+To view the rendered HTML file, click here: https://html-preview.github.io/?url=https://github.com/KevinWa3/Natural-Language-Processing-in-Python/blob/main/Code/Corona_NLP.html.<br /><br />
 Corona_NLP_train.csv and Corona_NLP_test.csv are the two data files used in this project. <br />
