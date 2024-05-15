@@ -1,5 +1,7 @@
 # Natural-Language-Processing-NLP-in-Python
-Sentiment Analysis of Covid-19 Tweets Using Logistic Regression, Random Forest, Support Vector Classifier, and Latent Dirichlet Allocation (LDA).<br /><br />
-Corona_NLP.ipynb and .html are the notebook and rendered html output respectively. <br />
+Sentiment Analysis of Covid-19 Tweets Using Logistic Regression, Random Forest, Support Vector Classifier, and Latent Dirichlet Allocation (LDA).<br /> <br />
+Dataset contains over 40,000 tweets with 5 sentiment labels: extremely negative, negative, neutral, positive, and extremely positive. Main objective is to categorize new tweets into one of these five sentiments. The distribution of target labels is unbalanced, but nothing egregious. The most popular sentiments are positive and negative, each around 25% of the labels. The least popular sentiments are extremely positive and negative, each around 14% of the labels. Therefore, I will evaluate using primarily f1-score, but will also look at accuracy. <br /> <br />
+My best model was the support vector classifier, which achieved an overall f1-score of 0.50 and accuracy of 0.49. The 5 most important topics according to LDA analysis were supermarket, worker, coronavirus, covid19, and price. <br /> <br />
+In the Code folder, Corona_NLP.ipynb and .html are the notebook and rendered html output respectively. <br />
 To view the rendered HTML file, click here: https://html-preview.github.io/?url=https://github.com/KevinWa3/Natural-Language-Processing-in-Python/blob/main/Code/Corona_NLP.html.<br /><br />
-Corona_NLP_train.csv and Corona_NLP_test.csv are the two data files used in this project. <br />
+In the Data folder, Corona_NLP_train.csv and Corona_NLP_test.csv are the two data files used in this project. <br />
